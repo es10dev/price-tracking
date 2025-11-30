@@ -4,7 +4,8 @@
   "description": "Tool to fetch average card prices from CardMarket, filtering out non-EU sellers",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && npm run copy-public",
+    "copy-public": "cp -r public dist/ || xcopy /E /I /Y public dist\\public",
     "start": "node dist/server.js",
     "dev": "ts-node src/index.ts",
     "test": "ts-node src/index.ts",
