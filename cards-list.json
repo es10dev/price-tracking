@@ -1,0 +1,2918 @@
+[
+  {
+    "key": "Calm Rune-V.1-Common",
+    "name": "Calm Rune",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Rune",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Calm-Rune-V1-Common",
+    "fullText": "Calm Rune (V.1 - Common)"
+  },
+  {
+    "key": "Order Rune-V.1-Common",
+    "name": "Order Rune",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Rune",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Order-Rune-V1-Common",
+    "fullText": "Order Rune (V.1 - Common)"
+  },
+  {
+    "key": "Chaos Rune-V.1-Common",
+    "name": "Chaos Rune",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Rune",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Chaos-Rune-V1-Common",
+    "fullText": "Chaos Rune (V.1 - Common)"
+  },
+  {
+    "key": "Mind Rune-V.1-Common",
+    "name": "Mind Rune",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Rune",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Mind-Rune-V1-Common",
+    "fullText": "Mind Rune (V.1 - Common)"
+  },
+  {
+    "key": "Defy-V.1-Common",
+    "name": "Defy",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Defy",
+    "fullText": "Defy"
+  },
+  {
+    "key": "Body Rune-V.1-Common",
+    "name": "Body Rune",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Rune",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Body-Rune-V1-Common",
+    "fullText": "Body Rune (V.1 - Common)"
+  },
+  {
+    "key": "Fury Rune-V.1-Common",
+    "name": "Fury Rune",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Rune",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Fury-Rune-V1-Common",
+    "fullText": "Fury Rune (V.1 - Common)"
+  },
+  {
+    "key": "En Garde-V.1-Common",
+    "name": "En Garde",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/En-Garde",
+    "fullText": "En Garde"
+  },
+  {
+    "key": "Ride the Wind-V.1-Common",
+    "name": "Ride the Wind",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Ride-the-Wind",
+    "fullText": "Ride the Wind"
+  },
+  {
+    "key": "Stacked Deck-V.1-Common",
+    "name": "Stacked Deck",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Stacked-Deck",
+    "fullText": "Stacked Deck"
+  },
+  {
+    "key": "Find Your Center-V.1-Common",
+    "name": "Find Your Center",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Find-Your-Center",
+    "fullText": "Find Your Center"
+  },
+  {
+    "key": "Stupefy-V.1-Common",
+    "name": "Stupefy",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Stupefy",
+    "fullText": "Stupefy"
+  },
+  {
+    "key": "Cleave-V.1-Common",
+    "name": "Cleave",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Cleave",
+    "fullText": "Cleave"
+  },
+  {
+    "key": "Lecturing Yordle-V.1-Common",
+    "name": "Lecturing Yordle",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Lecturing-Yordle",
+    "fullText": "Lecturing Yordle"
+  },
+  {
+    "key": "Watchful Sentry-V.1-Common",
+    "name": "Watchful Sentry",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Watchful-Sentry",
+    "fullText": "Watchful Sentry"
+  },
+  {
+    "key": "Ravenbloom Student-V.1-Common",
+    "name": "Ravenbloom Student",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Ravenbloom-Student",
+    "fullText": "Ravenbloom Student"
+  },
+  {
+    "key": "Sprite Mother-V.1-Common",
+    "name": "Sprite Mother",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Sprite-Mother",
+    "fullText": "Sprite Mother"
+  },
+  {
+    "key": "Discipline-V.1-Common",
+    "name": "Discipline",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Discipline",
+    "fullText": "Discipline"
+  },
+  {
+    "key": "Smoke Screen-V.1-Common",
+    "name": "Smoke Screen",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Smoke-Screen",
+    "fullText": "Smoke Screen"
+  },
+  {
+    "key": "Charm-V.1-Common",
+    "name": "Charm",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Charm",
+    "fullText": "Charm"
+  },
+  {
+    "key": "Noxus Hopeful-V.1-Common",
+    "name": "Noxus Hopeful",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Noxus-Hopeful",
+    "fullText": "Noxus Hopeful"
+  },
+  {
+    "key": "Retreat-V.1-Common",
+    "name": "Retreat",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Retreat",
+    "fullText": "Retreat"
+  },
+  {
+    "key": "Fight or Flight-V.1-Common",
+    "name": "Fight or Flight",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Fight-or-Flight",
+    "fullText": "Fight or Flight"
+  },
+  {
+    "key": "Gust-V.1-Common",
+    "name": "Gust",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Gust",
+    "fullText": "Gust"
+  },
+  {
+    "key": "Hextech Ray-V.1-Common",
+    "name": "Hextech Ray",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Hextech-Ray",
+    "fullText": "Hextech Ray"
+  },
+  {
+    "key": "Singularity-V.1-Common",
+    "name": "Singularity",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Singularity",
+    "fullText": "Singularity"
+  },
+  {
+    "key": "Stalwart Poro-V.1-Common",
+    "name": "Stalwart Poro",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Stalwart-Poro",
+    "fullText": "Stalwart Poro"
+  },
+  {
+    "key": "Daring Poro-V.1-Common",
+    "name": "Daring Poro",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Daring-Poro",
+    "fullText": "Daring Poro"
+  },
+  {
+    "key": "Faithful Manufactor-V.1-Common",
+    "name": "Faithful Manufactor",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Faithful-Manufactor",
+    "fullText": "Faithful Manufactor"
+  },
+  {
+    "key": "Vanguard Captain-V.1-Common",
+    "name": "Vanguard Captain",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Vanguard-Captain",
+    "fullText": "Vanguard Captain"
+  },
+  {
+    "key": "Hidden Blade-V.1-Common",
+    "name": "Hidden Blade",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Hidden-Blade",
+    "fullText": "Hidden Blade"
+  },
+  {
+    "key": "Rebuke-V.1-Common",
+    "name": "Rebuke",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Rebuke",
+    "fullText": "Rebuke"
+  },
+  {
+    "key": "Wind Wall-V.1-Common",
+    "name": "Wind Wall",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Wind-Wall",
+    "fullText": "Wind Wall"
+  },
+  {
+    "key": "Clockwork Keeper-V.1-Common",
+    "name": "Clockwork Keeper",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Clockwork-Keeper",
+    "fullText": "Clockwork Keeper"
+  },
+  {
+    "key": "Consult the Past-V.1-Common",
+    "name": "Consult the Past",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Consult-the-Past",
+    "fullText": "Consult the Past"
+  },
+  {
+    "key": "Traveling Merchant-V.1-Common",
+    "name": "Traveling Merchant",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Traveling-Merchant",
+    "fullText": "Traveling Merchant"
+  },
+  {
+    "key": "Pouty Poro-V.1-Common",
+    "name": "Pouty Poro",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Pouty-Poro",
+    "fullText": "Pouty Poro"
+  },
+  {
+    "key": "Catalyst of Aeons-V.1-Common",
+    "name": "Catalyst of Aeons",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Catalyst-of-Aeons",
+    "fullText": "Catalyst of Aeons"
+  },
+  {
+    "key": "Salvage-V.1-Common",
+    "name": "Salvage",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Salvage",
+    "fullText": "Salvage"
+  },
+  {
+    "key": "Blastcone Fae-V.1-Common",
+    "name": "Blastcone Fae",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Blastcone-Fae",
+    "fullText": "Blastcone Fae"
+  },
+  {
+    "key": "Void Seeker-V.1-Common",
+    "name": "Void Seeker",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Void-Seeker",
+    "fullText": "Void Seeker"
+  },
+  {
+    "key": "Riptide Rex-V.1-Common",
+    "name": "Riptide Rex",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Riptide-Rex",
+    "fullText": "Riptide Rex"
+  },
+  {
+    "key": "Sunlit Guardian-V.1-Common",
+    "name": "Sunlit Guardian",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Sunlit-Guardian",
+    "fullText": "Sunlit Guardian"
+  },
+  {
+    "key": "Rune Prison-V.1-Common",
+    "name": "Rune Prison",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Rune",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Rune-Prison",
+    "fullText": "Rune Prison"
+  },
+  {
+    "key": "Soaring Scout-V.1-Common",
+    "name": "Soaring Scout",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Soaring-Scout",
+    "fullText": "Soaring Scout"
+  },
+  {
+    "key": "Sneaky Deckhand-V.1-Common",
+    "name": "Sneaky Deckhand",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Sneaky-Deckhand",
+    "fullText": "Sneaky Deckhand"
+  },
+  {
+    "key": "Mobilize-V.1-Common",
+    "name": "Mobilize",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Mobilize",
+    "fullText": "Mobilize"
+  },
+  {
+    "key": "Acceptable Losses-V.1-Common",
+    "name": "Acceptable Losses",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Acceptable-Losses",
+    "fullText": "Acceptable Losses"
+  },
+  {
+    "key": "Call to Glory-V.1-Common",
+    "name": "Call to Glory",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Call-to-Glory",
+    "fullText": "Call to Glory"
+  },
+  {
+    "key": "Facebreaker-V.1-Common",
+    "name": "Facebreaker",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Facebreaker",
+    "fullText": "Facebreaker"
+  },
+  {
+    "key": "Cithria of Cloudfield-V.1-Common",
+    "name": "Cithria of Cloudfield",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Cithria-of-Cloudfield",
+    "fullText": "Cithria of Cloudfield"
+  },
+  {
+    "key": "Confront-V.1-Common",
+    "name": "Confront",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Confront",
+    "fullText": "Confront"
+  },
+  {
+    "key": "Falling Comet-V.1-Common",
+    "name": "Falling Comet",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Falling-Comet",
+    "fullText": "Falling Comet"
+  },
+  {
+    "key": "Ember Monk-V.1-Common",
+    "name": "Ember Monk",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Ember-Monk",
+    "fullText": "Ember Monk"
+  },
+  {
+    "key": "Cull the Weak-V.1-Common",
+    "name": "Cull the Weak",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Cull-the-Weak",
+    "fullText": "Cull the Weak"
+  },
+  {
+    "key": "Scrapheap-V.1-Common",
+    "name": "Scrapheap",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Scrapheap",
+    "fullText": "Scrapheap"
+  },
+  {
+    "key": "Pit Rookie-V.1-Common",
+    "name": "Pit Rookie",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Pit-Rookie",
+    "fullText": "Pit Rookie"
+  },
+  {
+    "key": "Unyielding Spirit-V.1-Common",
+    "name": "Unyielding Spirit",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Unyielding-Spirit",
+    "fullText": "Unyielding Spirit"
+  },
+  {
+    "key": "Wielder of Water-V.1-Common",
+    "name": "Wielder of Water",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Wielder-of-Water",
+    "fullText": "Wielder of Water"
+  },
+  {
+    "key": "Mask of Foresight-V.1-Common",
+    "name": "Mask of Foresight",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Mask-of-Foresight",
+    "fullText": "Mask of Foresight"
+  },
+  {
+    "key": "Adaptatron-V.1-Common",
+    "name": "Adaptatron",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Adaptatron",
+    "fullText": "Adaptatron"
+  },
+  {
+    "key": "First Mate-V.1-Common",
+    "name": "First Mate",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/First-Mate",
+    "fullText": "First Mate"
+  },
+  {
+    "key": "Trifarian Gloryseeker-V.1-Common",
+    "name": "Trifarian Gloryseeker",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Trifarian-Gloryseeker",
+    "fullText": "Trifarian Gloryseeker"
+  },
+  {
+    "key": "Legion Rearguard-V.1-Common",
+    "name": "Legion Rearguard",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Legion-Rearguard",
+    "fullText": "Legion Rearguard"
+  },
+  {
+    "key": "Meditation-V.1-Common",
+    "name": "Meditation",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Meditation",
+    "fullText": "Meditation"
+  },
+  {
+    "key": "Kinkou Monk-V.1-Common",
+    "name": "Kinkou Monk",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Kinkou-Monk",
+    "fullText": "Kinkou Monk"
+  },
+  {
+    "key": "Imperial Decree-V.1-Common",
+    "name": "Imperial Decree",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Imperial-Decree",
+    "fullText": "Imperial Decree"
+  },
+  {
+    "key": "Challenge-V.1-Common",
+    "name": "Challenge",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Challenge",
+    "fullText": "Challenge"
+  },
+  {
+    "key": "Spectral Matron-V.1-Common",
+    "name": "Spectral Matron",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Spectral-Matron",
+    "fullText": "Spectral Matron"
+  },
+  {
+    "key": "Thermo Beam-V.1-Common",
+    "name": "Thermo Beam",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Thermo-Beam",
+    "fullText": "Thermo Beam"
+  },
+  {
+    "key": "Flurry of Blades-V.1-Common",
+    "name": "Flurry of Blades",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Flurry-of-Blades",
+    "fullText": "Flurry of Blades"
+  },
+  {
+    "key": "Vengeance-V.1-Common",
+    "name": "Vengeance",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Vengeance",
+    "fullText": "Vengeance"
+  },
+  {
+    "key": "Sun Disc-V.1-Common",
+    "name": "Sun Disc",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Sun-Disc",
+    "fullText": "Sun Disc"
+  },
+  {
+    "key": "The Dreaming Tree-V.1-Common",
+    "name": "The Dreaming Tree",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/The-Dreaming-Tree",
+    "fullText": "The Dreaming Tree"
+  },
+  {
+    "key": "Block-V.1-Common",
+    "name": "Block",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Block",
+    "fullText": "Block"
+  },
+  {
+    "key": "Obelisk of Power-V.1-Common",
+    "name": "Obelisk of Power",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Obelisk-of-Power",
+    "fullText": "Obelisk of Power"
+  },
+  {
+    "key": "Spirit's Refuge-V.1-Common",
+    "name": "Spirit's Refuge",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Spirits-Refuge",
+    "fullText": "Spirit's Refuge"
+  },
+  {
+    "key": "Sky Splitter-V.1-Common",
+    "name": "Sky Splitter",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Sky-Splitter",
+    "fullText": "Sky Splitter"
+  },
+  {
+    "key": "Mystic Poro-V.1-Common",
+    "name": "Mystic Poro",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Mystic-Poro",
+    "fullText": "Mystic Poro"
+  },
+  {
+    "key": "Noxian Drummer-V.1-Common",
+    "name": "Noxian Drummer",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Noxian-Drummer",
+    "fullText": "Noxian Drummer"
+  },
+  {
+    "key": "Fading Memories-V.1-Common",
+    "name": "Fading Memories",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Fading-Memories",
+    "fullText": "Fading Memories"
+  },
+  {
+    "key": "Arena Bar-V.1-Common",
+    "name": "Arena Bar",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Arena-Bar",
+    "fullText": "Arena Bar"
+  },
+  {
+    "key": "Sprite Call-V.1-Common",
+    "name": "Sprite Call",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Sprite-Call",
+    "fullText": "Sprite Call"
+  },
+  {
+    "key": "Dangerous Duo-V.1-Common",
+    "name": "Dangerous Duo",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Dangerous-Duo",
+    "fullText": "Dangerous Duo"
+  },
+  {
+    "key": "Solari Shieldbearer-V.1-Common",
+    "name": "Solari Shieldbearer",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Solari-Shieldbearer",
+    "fullText": "Solari Shieldbearer"
+  },
+  {
+    "key": "The Arena's Greatest-V.1-Common",
+    "name": "The Arena's Greatest",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/The-Arenas-Greatest",
+    "fullText": "The Arena's Greatest"
+  },
+  {
+    "key": "Cannon Barrage-V.1-Common",
+    "name": "Cannon Barrage",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Cannon-Barrage",
+    "fullText": "Cannon Barrage"
+  },
+  {
+    "key": "Grove of the God-Willow-V.1-Common",
+    "name": "Grove of the God-Willow",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Grove-of-the-God-Willow",
+    "fullText": "Grove of the God-Willow"
+  },
+  {
+    "key": "The Candlelit Sanctum-V.1-Common",
+    "name": "The Candlelit Sanctum",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/The-Candlelit-Sanctum",
+    "fullText": "The Candlelit Sanctum"
+  },
+  {
+    "key": "Zaun Warrens-V.1-Common",
+    "name": "Zaun Warrens",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Zaun-Warrens",
+    "fullText": "Zaun Warrens"
+  },
+  {
+    "key": "Stand United-V.1-Common",
+    "name": "Stand United",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Stand-United",
+    "fullText": "Stand United"
+  },
+  {
+    "key": "Eager Apprentice-V.1-Common",
+    "name": "Eager Apprentice",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Eager-Apprentice",
+    "fullText": "Eager Apprentice"
+  },
+  {
+    "key": "Iron Ballista-V.1-Common",
+    "name": "Iron Ballista",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Iron-Ballista",
+    "fullText": "Iron Ballista"
+  },
+  {
+    "key": "Wallop-V.1-Common",
+    "name": "Wallop",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Wallop",
+    "fullText": "Wallop"
+  },
+  {
+    "key": "Aspirant's Climb-V.1-Common",
+    "name": "Aspirant's Climb",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Aspirants-Climb",
+    "fullText": "Aspirant's Climb"
+  },
+  {
+    "key": "Orb of Regret-V.1-Common",
+    "name": "Orb of Regret",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Orb-of-Regret",
+    "fullText": "Orb of Regret"
+  },
+  {
+    "key": "Treasure Trove-V.1-Common",
+    "name": "Treasure Trove",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Treasure-Trove",
+    "fullText": "Treasure Trove"
+  },
+  {
+    "key": "Cruel Patron-V.1-Common",
+    "name": "Cruel Patron",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Cruel-Patron",
+    "fullText": "Cruel Patron"
+  },
+  {
+    "key": "Disintegrate-V.1-Common",
+    "name": "Disintegrate",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Disintegrate",
+    "fullText": "Disintegrate"
+  },
+  {
+    "key": "Eclipse Herald-V.1-Common",
+    "name": "Eclipse Herald",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Eclipse-Herald",
+    "fullText": "Eclipse Herald"
+  },
+  {
+    "key": "Targon's Peak-V.1-Common",
+    "name": "Targon's Peak",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Targons-Peak",
+    "fullText": "Targon's Peak"
+  },
+  {
+    "key": "Mega-Mech-V.1-Common",
+    "name": "Mega-Mech",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Mega-Mech",
+    "fullText": "Mega-Mech"
+  },
+  {
+    "key": "Solari Chief-V.1-Common",
+    "name": "Solari Chief",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Solari-Chief",
+    "fullText": "Solari Chief"
+  },
+  {
+    "key": "Reaver's Row-V.1-Common",
+    "name": "Reaver's Row",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Reavers-Row",
+    "fullText": "Reaver's Row"
+  },
+  {
+    "key": "Recruit-V.3-Common",
+    "name": "Recruit",
+    "version": "V.3",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Recruit-V3-Common",
+    "fullText": "Recruit (V.3 - Common)"
+  },
+  {
+    "key": "Chemtech Enforcer-V.1-Common",
+    "name": "Chemtech Enforcer",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Chemtech-Enforcer",
+    "fullText": "Chemtech Enforcer"
+  },
+  {
+    "key": "Back to Back-V.1-Common",
+    "name": "Back to Back",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Back-to-Back",
+    "fullText": "Back to Back"
+  },
+  {
+    "key": "Windswept Hillock-V.1-Common",
+    "name": "Windswept Hillock",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Windswept-Hillock",
+    "fullText": "Windswept Hillock"
+  },
+  {
+    "key": "Morbid Return-V.1-Common",
+    "name": "Morbid Return",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Morbid-Return",
+    "fullText": "Morbid Return"
+  },
+  {
+    "key": "Pack of Wonders-V.1-Common",
+    "name": "Pack of Wonders",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Pack-of-Wonders",
+    "fullText": "Pack of Wonders"
+  },
+  {
+    "key": "Captain Farron-V.1-Common",
+    "name": "Captain Farron",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Captain-Farron",
+    "fullText": "Captain Farron"
+  },
+  {
+    "key": "Flame Chompers-V.1-Common",
+    "name": "Flame Chompers",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Flame-Chompers",
+    "fullText": "Flame Chompers"
+  },
+  {
+    "key": "Unlicensed Armory-V.1-Common",
+    "name": "Unlicensed Armory",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Unlicensed-Armory",
+    "fullText": "Unlicensed Armory"
+  },
+  {
+    "key": "Blazing Scorcher-V.1-Common",
+    "name": "Blazing Scorcher",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Blazing-Scorcher",
+    "fullText": "Blazing Scorcher"
+  },
+  {
+    "key": "Herald of Scales-V.1-Common",
+    "name": "Herald of Scales",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Herald-of-Scales",
+    "fullText": "Herald of Scales"
+  },
+  {
+    "key": "Startipped Peak-V.1-Common",
+    "name": "Startipped Peak",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Startipped-Peak",
+    "fullText": "Startipped Peak"
+  },
+  {
+    "key": "Peak Guardian-V.1-Common",
+    "name": "Peak Guardian",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Peak-Guardian",
+    "fullText": "Peak Guardian"
+  },
+  {
+    "key": "Energy Conduit-V.1-Common",
+    "name": "Energy Conduit",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Energy-Conduit",
+    "fullText": "Energy Conduit"
+  },
+  {
+    "key": "Get Excited!-V.1-Common",
+    "name": "Get Excited!",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Get-Excited",
+    "fullText": "Get Excited!"
+  },
+  {
+    "key": "Bandle Tree-V.1-Common",
+    "name": "Bandle Tree",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Bandle-Tree",
+    "fullText": "Bandle Tree"
+  },
+  {
+    "key": "Void Gate-V.1-Common",
+    "name": "Void Gate",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Void-Gate",
+    "fullText": "Void Gate"
+  },
+  {
+    "key": "Cemetery Attendant-V.1-Common",
+    "name": "Cemetery Attendant",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Cemetery-Attendant",
+    "fullText": "Cemetery Attendant"
+  },
+  {
+    "key": "Stealthy Pursuer-V.1-Common",
+    "name": "Stealthy Pursuer",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Stealthy-Pursuer",
+    "fullText": "Stealthy Pursuer"
+  },
+  {
+    "key": "Forge of the Future-V.1-Common",
+    "name": "Forge of the Future",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Forge-of-the-Future",
+    "fullText": "Forge of the Future"
+  },
+  {
+    "key": "Noxus Saboteur-V.1-Common",
+    "name": "Noxus Saboteur",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Noxus-Saboteur",
+    "fullText": "Noxus Saboteur"
+  },
+  {
+    "key": "Vilemaw's Lair-V.1-Common",
+    "name": "Vilemaw's Lair",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Vilemaws-Lair",
+    "fullText": "Vilemaw's Lair"
+  },
+  {
+    "key": "Zaunite Bouncer-V.1-Common",
+    "name": "Zaunite Bouncer",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Zaunite-Bouncer",
+    "fullText": "Zaunite Bouncer"
+  },
+  {
+    "key": "Poro Herder-V.1-Common",
+    "name": "Poro Herder",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Poro-Herder",
+    "fullText": "Poro Herder"
+  },
+  {
+    "key": "Dune Drake-V.1-Common",
+    "name": "Dune Drake",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Dune-Drake",
+    "fullText": "Dune Drake"
+  },
+  {
+    "key": "Sprite-V.1-Common",
+    "name": "Sprite",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Sprite",
+    "fullText": "Sprite"
+  },
+  {
+    "key": "Trifarian War Camp-V.1-Common",
+    "name": "Trifarian War Camp",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Trifarian-War-Camp",
+    "fullText": "Trifarian War Camp"
+  },
+  {
+    "key": "Jeweled Colossus-V.1-Common",
+    "name": "Jeweled Colossus",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Jeweled-Colossus",
+    "fullText": "Jeweled Colossus"
+  },
+  {
+    "key": "Brazen Buccaneer-V.1-Common",
+    "name": "Brazen Buccaneer",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Brazen-Buccaneer",
+    "fullText": "Brazen Buccaneer"
+  },
+  {
+    "key": "Gemcraft Seer-V.1-Common",
+    "name": "Gemcraft Seer",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Gemcraft-Seer",
+    "fullText": "Gemcraft Seer"
+  },
+  {
+    "key": "Garbage Grabber-V.1-Common",
+    "name": "Garbage Grabber",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Garbage-Grabber",
+    "fullText": "Garbage Grabber"
+  },
+  {
+    "key": "Mountain Drake-V.1-Common",
+    "name": "Mountain Drake",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Mountain-Drake",
+    "fullText": "Mountain Drake"
+  },
+  {
+    "key": "Portal Rescue-V.1-Common",
+    "name": "Portal Rescue",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Portal-Rescue",
+    "fullText": "Portal Rescue"
+  },
+  {
+    "key": "Mushroom Pouch-V.1-Common",
+    "name": "Mushroom Pouch",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Mushroom-Pouch",
+    "fullText": "Mushroom Pouch"
+  },
+  {
+    "key": "Magma Wurm-V.1-Common",
+    "name": "Magma Wurm",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Magma-Wurm",
+    "fullText": "Magma Wurm"
+  },
+  {
+    "key": "Sigil of the Storm-V.1-Common",
+    "name": "Sigil of the Storm",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Sigil-of-the-Storm",
+    "fullText": "Sigil of the Storm"
+  },
+  {
+    "key": "Monastery of Hirana-V.1-Common",
+    "name": "Monastery of Hirana",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Monastery-of-Hirana",
+    "fullText": "Monastery of Hirana"
+  },
+  {
+    "key": "Wizened Elder-V.1-Common",
+    "name": "Wizened Elder",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Wizened-Elder",
+    "fullText": "Wizened Elder"
+  },
+  {
+    "key": "Reinforce-V.1-Common",
+    "name": "Reinforce",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Reinforce",
+    "fullText": "Reinforce"
+  },
+  {
+    "key": "Wildclaw Shaman-V.1-Common",
+    "name": "Wildclaw Shaman",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Wildclaw-Shaman",
+    "fullText": "Wildclaw Shaman"
+  },
+  {
+    "key": "Stormclaw Ursine-V.1-Common",
+    "name": "Stormclaw Ursine",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Stormclaw-Ursine",
+    "fullText": "Stormclaw Ursine"
+  },
+  {
+    "key": "Spoils of War-V.1-Common",
+    "name": "Spoils of War",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Spoils-of-War",
+    "fullText": "Spoils of War"
+  },
+  {
+    "key": "Pakaa Cub-V.1-Common",
+    "name": "Pakaa Cub",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Pakaa-Cub",
+    "fullText": "Pakaa Cub"
+  },
+  {
+    "key": "Fortified Position-V.1-Common",
+    "name": "Fortified Position",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Fortified-Position",
+    "fullText": "Fortified Position"
+  },
+  {
+    "key": "Scrapyard Champion-V.1-Common",
+    "name": "Scrapyard Champion",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Scrapyard-Champion",
+    "fullText": "Scrapyard Champion"
+  },
+  {
+    "key": "Pirate's Haven-V.1-Common",
+    "name": "Pirate's Haven",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Pirates-Haven",
+    "fullText": "Pirate's Haven"
+  },
+  {
+    "key": "Symbol of the Solari-V.1-Common",
+    "name": "Symbol of the Solari",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Symbol-of-the-Solari",
+    "fullText": "Symbol of the Solari"
+  },
+  {
+    "key": "Back-Alley Bar-V.1-Common",
+    "name": "Back-Alley Bar",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Back-Alley-Bar",
+    "fullText": "Back-Alley Bar"
+  },
+  {
+    "key": "Pit Crew-V.1-Common",
+    "name": "Pit Crew",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Pit-Crew",
+    "fullText": "Pit Crew"
+  },
+  {
+    "key": "Hallowed Tomb-V.1-Common",
+    "name": "Hallowed Tomb",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Hallowed-Tomb",
+    "fullText": "Hallowed Tomb"
+  },
+  {
+    "key": "Sai Scout-V.1-Common",
+    "name": "Sai Scout",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Sai-Scout",
+    "fullText": "Sai Scout"
+  },
+  {
+    "key": "Bilgewater Bully-V.1-Common",
+    "name": "Bilgewater Bully",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Bilgewater-Bully",
+    "fullText": "Bilgewater Bully"
+  },
+  {
+    "key": "The Syren-V.1-Common",
+    "name": "The Syren",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/The-Syren",
+    "fullText": "The Syren"
+  },
+  {
+    "key": "Crackshot Corsair-V.1-Common",
+    "name": "Crackshot Corsair",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Crackshot-Corsair",
+    "fullText": "Crackshot Corsair"
+  },
+  {
+    "key": "Navori Fighting Pit-V.1-Common",
+    "name": "Navori Fighting Pit",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Navori-Fighting-Pit",
+    "fullText": "Navori Fighting Pit"
+  },
+  {
+    "key": "Vanguard Helm-V.1-Common",
+    "name": "Vanguard Helm",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Vanguard-Helm",
+    "fullText": "Vanguard Helm"
+  },
+  {
+    "key": "Recruit-V.2-Common",
+    "name": "Recruit",
+    "version": "V.2",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Recruit-V2-Common",
+    "fullText": "Recruit (V.2 - Common)"
+  },
+  {
+    "key": "Whirlwind-V.1-Common",
+    "name": "Whirlwind",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Whirlwind",
+    "fullText": "Whirlwind"
+  },
+  {
+    "key": "Undercover Agent-V.1-Common",
+    "name": "Undercover Agent",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Undercover-Agent",
+    "fullText": "Undercover Agent"
+  },
+  {
+    "key": "Raging Soul-V.1-Common",
+    "name": "Raging Soul",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Raging-Soul",
+    "fullText": "Raging Soul"
+  },
+  {
+    "key": "Vanguard Sergeant-V.1-Common",
+    "name": "Vanguard Sergeant",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Vanguard-Sergeant",
+    "fullText": "Vanguard Sergeant"
+  },
+  {
+    "key": "Recruit-V.1-Common",
+    "name": "Recruit",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Recruit-V1-Common",
+    "fullText": "Recruit (V.1 - Common)"
+  },
+  {
+    "key": "Reckoner's Arena-V.1-Common",
+    "name": "Reckoner's Arena",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Reckoners-Arena",
+    "fullText": "Reckoner's Arena"
+  },
+  {
+    "key": "Shipyard Skulker-V.1-Common",
+    "name": "Shipyard Skulker",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Shipyard-Skulker",
+    "fullText": "Shipyard Skulker"
+  },
+  {
+    "key": "Petty Officer-V.1-Common",
+    "name": "Petty Officer",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Petty-Officer",
+    "fullText": "Petty Officer"
+  },
+  {
+    "key": "Playful Phantom-V.1-Common",
+    "name": "Playful Phantom",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Playful-Phantom",
+    "fullText": "Playful Phantom"
+  },
+  {
+    "key": "Altar to Unity-V.1-Common",
+    "name": "Altar to Unity",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Altar-to-Unity",
+    "fullText": "Altar to Unity"
+  },
+  {
+    "key": "The Grand Plaza-V.1-Common",
+    "name": "The Grand Plaza",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/The-Grand-Plaza",
+    "fullText": "The Grand Plaza"
+  },
+  {
+    "key": "Buff-V.1-Common",
+    "name": "Buff",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Buff",
+    "fullText": "Buff"
+  },
+  {
+    "key": "Yasuo, Remorseful-V.2-Showcase",
+    "name": "Yasuo, Remorseful",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Yasuo-Remorseful-V2-Rare",
+    "fullText": "Yasuo, Remorseful (V.2 - Showcase)"
+  },
+  {
+    "key": "Teemo, Swift Scout-V.2-Showcase",
+    "name": "Teemo, Swift Scout",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Teemo-Swift-Scout-V2-Overnumbered",
+    "fullText": "Teemo, Swift Scout (V.2 - Showcase)"
+  },
+  {
+    "key": "Miss Fortune, Bounty Hunter-V.2-Showcase",
+    "name": "Miss Fortune, Bounty Hunter",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Miss-Fortune-Bounty-Hunter-V2-Overnumbered",
+    "fullText": "Miss Fortune, Bounty Hunter (V.2 - Showcase)"
+  },
+  {
+    "key": "Lee Sin, Blind Monk-V.2-Showcase",
+    "name": "Lee Sin, Blind Monk",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Lee-Sin-Blind-Monk-V2-Overnumbered",
+    "fullText": "Lee Sin, Blind Monk (V.2 - Showcase)"
+  },
+  {
+    "key": "Viktor, Herald of the Arcane-V.2-Showcase",
+    "name": "Viktor, Herald of the Arcane",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Viktor-Herald-of-the-Arcane-V2-Overnumbered",
+    "fullText": "Viktor, Herald of the Arcane (V.2 - Showcase)"
+  },
+  {
+    "key": "Jinx, Loose Cannon-V.3-Showcase",
+    "name": "Jinx, Loose Cannon",
+    "version": "V.3",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Jinx-Loose-Cannon-V3-Overnumbered",
+    "fullText": "Jinx, Loose Cannon (V.3 - Showcase)"
+  },
+  {
+    "key": "Teemo, Swift Scout-V.3-Showcase",
+    "name": "Teemo, Swift Scout",
+    "version": "V.3",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Teemo-Swift-Scout-V3-Overnumbered",
+    "fullText": "Teemo, Swift Scout (V.3 - Showcase)"
+  },
+  {
+    "key": "Leona, Radiant Dawn-V.3-Showcase",
+    "name": "Leona, Radiant Dawn",
+    "version": "V.3",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Leona-Radiant-Dawn-V3-Overnumbered",
+    "fullText": "Leona, Radiant Dawn (V.3 - Showcase)"
+  },
+  {
+    "key": "Miss Fortune, Bounty Hunter-V.3-Showcase",
+    "name": "Miss Fortune, Bounty Hunter",
+    "version": "V.3",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Miss-Fortune-Bounty-Hunter-V3-Overnumbered",
+    "fullText": "Miss Fortune, Bounty Hunter (V.3 - Showcase)"
+  },
+  {
+    "key": "Lee Sin, Blind Monk-V.3-Showcase",
+    "name": "Lee Sin, Blind Monk",
+    "version": "V.3",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Lee-Sin-Blind-Monk-V3-Overnumbered",
+    "fullText": "Lee Sin, Blind Monk (V.3 - Showcase)"
+  },
+  {
+    "key": "Darius, Hand of Noxus-V.3-Showcase",
+    "name": "Darius, Hand of Noxus",
+    "version": "V.3",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Darius-Hand-of-Noxus-V3-Overnumbered",
+    "fullText": "Darius, Hand of Noxus (V.3 - Showcase)"
+  },
+  {
+    "key": "Blitzcrank, Impassive-V.1-Common",
+    "name": "Blitzcrank, Impassive",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Blitzcrank-Impassive",
+    "fullText": "Blitzcrank, Impassive"
+  },
+  {
+    "key": "Fury Rune-V.2-Showcase",
+    "name": "Fury Rune",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Rune",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Fury-Rune-V2-Overnumbered",
+    "fullText": "Fury Rune (V.2 - Showcase)"
+  },
+  {
+    "key": "Blind Fury-V.1-Common",
+    "name": "Blind Fury",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Blind-Fury",
+    "fullText": "Blind Fury"
+  },
+  {
+    "key": "Brynhir Thundersong-V.1-Common",
+    "name": "Brynhir Thundersong",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Brynhir-Thundersong",
+    "fullText": "Brynhir Thundersong"
+  },
+  {
+    "key": "Darius, Trifarian-V.1-Rare",
+    "name": "Darius, Trifarian",
+    "version": "V.1",
+    "rarity": "Rare",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Darius-Trifarian-V1-Rare",
+    "fullText": "Darius, Trifarian (V.1 - Rare)"
+  },
+  {
+    "key": "Darius, Trifarian-V.2-Showcase",
+    "name": "Darius, Trifarian",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Darius-Trifarian-V2-Rare",
+    "fullText": "Darius, Trifarian (V.2 - Showcase)"
+  },
+  {
+    "key": "Draven, Showboat-V.1-Common",
+    "name": "Draven, Showboat",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Draven-Showboat",
+    "fullText": "Draven, Showboat"
+  },
+  {
+    "key": "Falling Star-V.1-Common",
+    "name": "Falling Star",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Falling-Star",
+    "fullText": "Falling Star"
+  },
+  {
+    "key": "Jinx, Demolitionist-V.1-Rare",
+    "name": "Jinx, Demolitionist",
+    "version": "V.1",
+    "rarity": "Rare",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Jinx-Demolitionist-V1-Rare",
+    "fullText": "Jinx, Demolitionist (V.1 - Rare)"
+  },
+  {
+    "key": "Jinx, Demolitionist-V.2-Showcase",
+    "name": "Jinx, Demolitionist",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Jinx-Demolitionist-V2-Rare",
+    "fullText": "Jinx, Demolitionist (V.2 - Showcase)"
+  },
+  {
+    "key": "Raging Firebrand-V.1-Common",
+    "name": "Raging Firebrand",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Raging-Firebrand",
+    "fullText": "Raging Firebrand"
+  },
+  {
+    "key": "Ravenborn Tome-V.1-Common",
+    "name": "Ravenborn Tome",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Ravenborn-Tome",
+    "fullText": "Ravenborn Tome"
+  },
+  {
+    "key": "Shakedown-V.1-Common",
+    "name": "Shakedown",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Shakedown",
+    "fullText": "Shakedown"
+  },
+  {
+    "key": "Tryndamere, Barbarian-V.1-Common",
+    "name": "Tryndamere, Barbarian",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Tryndamere-Barbarian",
+    "fullText": "Tryndamere, Barbarian"
+  },
+  {
+    "key": "Vayne, Hunter-V.1-Common",
+    "name": "Vayne, Hunter",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Vayne-Hunter",
+    "fullText": "Vayne, Hunter"
+  },
+  {
+    "key": "Vi, Destructive-V.1-Common",
+    "name": "Vi, Destructive",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Vi-Destructive",
+    "fullText": "Vi, Destructive"
+  },
+  {
+    "key": "Immortal Phoenix-V.1-Common",
+    "name": "Immortal Phoenix",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Immortal-Phoenix",
+    "fullText": "Immortal Phoenix"
+  },
+  {
+    "key": "Kadregrin the Infernal-V.1-Common",
+    "name": "Kadregrin the Infernal",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Kadregrin-the-Infernal",
+    "fullText": "Kadregrin the Infernal"
+  },
+  {
+    "key": "Kai'Sa, Survivor-V.1-Epic",
+    "name": "Kai'Sa, Survivor",
+    "version": "V.1",
+    "rarity": "Epic",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/KaiSa-Survivor-V1-Epic",
+    "fullText": "Kai'Sa, Survivor (V.1 - Epic)"
+  },
+  {
+    "key": "Kai'Sa, Survivor-V.2-Showcase",
+    "name": "Kai'Sa, Survivor",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/KaiSa-Survivor-V2-Overnumbered",
+    "fullText": "Kai'Sa, Survivor (V.2 - Showcase)"
+  },
+  {
+    "key": "Seal of Rage-V.1-Common",
+    "name": "Seal of Rage",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Seal-of-Rage",
+    "fullText": "Seal of Rage"
+  },
+  {
+    "key": "Volibear, Furious-V.1-Epic",
+    "name": "Volibear, Furious",
+    "version": "V.1",
+    "rarity": "Epic",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Volibear-Furious-V1-Epic",
+    "fullText": "Volibear, Furious (V.1 - Epic)"
+  },
+  {
+    "key": "Volibear, Furious-V.2-Showcase",
+    "name": "Volibear, Furious",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Volibear-Furious-V2-Overnumbered",
+    "fullText": "Volibear, Furious (V.2 - Showcase)"
+  },
+  {
+    "key": "Calm Rune-V.2-Showcase",
+    "name": "Calm Rune",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Rune",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Calm-Rune-V2-Common",
+    "fullText": "Calm Rune (V.2 - Showcase)"
+  },
+  {
+    "key": "Ahri, Alluring-V.1-Rare",
+    "name": "Ahri, Alluring",
+    "version": "V.1",
+    "rarity": "Rare",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Ahri-Alluring-V1-Rare",
+    "fullText": "Ahri, Alluring (V.1 - Rare)"
+  },
+  {
+    "key": "Ahri, Alluring-V.2-Showcase",
+    "name": "Ahri, Alluring",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Ahri-Alluring-V2-Overnumbered",
+    "fullText": "Ahri, Alluring (V.2 - Showcase)"
+  },
+  {
+    "key": "Caitlyn, Patrolling-V.1-Common",
+    "name": "Caitlyn, Patrolling",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Caitlyn-Patrolling",
+    "fullText": "Caitlyn, Patrolling"
+  },
+  {
+    "key": "Last Stand-V.1-Common",
+    "name": "Last Stand",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Last-Stand",
+    "fullText": "Last Stand"
+  },
+  {
+    "key": "Mageseeker Warden-V.1-Common",
+    "name": "Mageseeker Warden",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Mageseeker-Warden",
+    "fullText": "Mageseeker Warden"
+  },
+  {
+    "key": "Party Favors-V.1-Common",
+    "name": "Party Favors",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Party-Favors",
+    "fullText": "Party Favors"
+  },
+  {
+    "key": "Solari Shrine-V.1-Common",
+    "name": "Solari Shrine",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Solari-Shrine",
+    "fullText": "Solari Shrine"
+  },
+  {
+    "key": "Sona, Harmonious-V.1-Common",
+    "name": "Sona, Harmonious",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Sona-Harmonious",
+    "fullText": "Sona, Harmonious"
+  },
+  {
+    "key": "Taric, Protector-V.1-Common",
+    "name": "Taric, Protector",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Taric-Protector",
+    "fullText": "Taric, Protector"
+  },
+  {
+    "key": "Tasty Faefolk-V.1-Common",
+    "name": "Tasty Faefolk",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Tasty-Faefolk",
+    "fullText": "Tasty Faefolk"
+  },
+  {
+    "key": "Yasuo, Remorseful-V.1-Rare",
+    "name": "Yasuo, Remorseful",
+    "version": "V.1",
+    "rarity": "Rare",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Yasuo-Remorseful-V1-Rare",
+    "fullText": "Yasuo, Remorseful (V.1 - Rare)"
+  },
+  {
+    "key": "Zhonya's Hourglass-V.1-Common",
+    "name": "Zhonya's Hourglass",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Zhonyas-Hourglass",
+    "fullText": "Zhonya's Hourglass"
+  },
+  {
+    "key": "Lee Sin, Ascetic-V.1-Epic",
+    "name": "Lee Sin, Ascetic",
+    "version": "V.1",
+    "rarity": "Epic",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Lee-Sin-Ascetic-V1-Epic",
+    "fullText": "Lee Sin, Ascetic (V.1 - Epic)"
+  },
+  {
+    "key": "Lee Sin, Ascetic-V.2-Showcase",
+    "name": "Lee Sin, Ascetic",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Lee-Sin-Ascetic-V2-Overnumbered",
+    "fullText": "Lee Sin, Ascetic (V.2 - Showcase)"
+  },
+  {
+    "key": "Leona, Zealot-V.1-Epic",
+    "name": "Leona, Zealot",
+    "version": "V.1",
+    "rarity": "Epic",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Leona-Zealot-V1-Epic",
+    "fullText": "Leona, Zealot (V.1 - Epic)"
+  },
+  {
+    "key": "Leona, Zealot-V.2-Showcase",
+    "name": "Leona, Zealot",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Leona-Zealot-V2-Overnumbered",
+    "fullText": "Leona, Zealot (V.2 - Showcase)"
+  },
+  {
+    "key": "Mystic Reversal-V.1-Common",
+    "name": "Mystic Reversal",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Mystic-Reversal",
+    "fullText": "Mystic Reversal"
+  },
+  {
+    "key": "Seal of Focus-V.1-Common",
+    "name": "Seal of Focus",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Seal-of-Focus",
+    "fullText": "Seal of Focus"
+  },
+  {
+    "key": "Whiteflame Protector-V.1-Common",
+    "name": "Whiteflame Protector",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Whiteflame-Protector",
+    "fullText": "Whiteflame Protector"
+  },
+  {
+    "key": "Mind Rune-V.2-Showcase",
+    "name": "Mind Rune",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Rune",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Mind-Rune-V2-Overnumbered",
+    "fullText": "Mind Rune (V.2 - Showcase)"
+  },
+  {
+    "key": "Ava Achiever-V.1-Common",
+    "name": "Ava Achiever",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Ava-Achiever",
+    "fullText": "Ava Achiever"
+  },
+  {
+    "key": "Convergent Mutation-V.1-Common",
+    "name": "Convergent Mutation",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Convergent-Mutation",
+    "fullText": "Convergent Mutation"
+  },
+  {
+    "key": "Dr. Mundo, Expert-V.1-Common",
+    "name": "Dr. Mundo, Expert",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Dr-Mundo-Expert",
+    "fullText": "Dr. Mundo, Expert"
+  },
+  {
+    "key": "Ekko, Recurrent-V.1-Common",
+    "name": "Ekko, Recurrent",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Ekko-Recurrent",
+    "fullText": "Ekko, Recurrent"
+  },
+  {
+    "key": "Heimerdinger, Inventor-V.1-Common",
+    "name": "Heimerdinger, Inventor",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Heimerdinger-Inventor",
+    "fullText": "Heimerdinger, Inventor"
+  },
+  {
+    "key": "Kai'Sa, Evolutionary-V.1-Rare",
+    "name": "Kai'Sa, Evolutionary",
+    "version": "V.1",
+    "rarity": "Rare",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/KaiSa-Evolutionary-V1-Rare",
+    "fullText": "Kai'Sa, Evolutionary (V.1 - Rare)"
+  },
+  {
+    "key": "Kai'Sa, Evolutionary-V.2-Showcase",
+    "name": "Kai'Sa, Evolutionary",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/KaiSa-Evolutionary-V2-Overnumbered",
+    "fullText": "Kai'Sa, Evolutionary (V.2 - Showcase)"
+  },
+  {
+    "key": "Malzahar, Fanatic-V.1-Common",
+    "name": "Malzahar, Fanatic",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Malzahar-Fanatic",
+    "fullText": "Malzahar, Fanatic"
+  },
+  {
+    "key": "Progress Day-V.1-Common",
+    "name": "Progress Day",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Progress-Day",
+    "fullText": "Progress Day"
+  },
+  {
+    "key": "Promising Future-V.1-Common",
+    "name": "Promising Future",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Promising-Future",
+    "fullText": "Promising Future"
+  },
+  {
+    "key": "Thousand-Tailed Watcher-V.1-Common",
+    "name": "Thousand-Tailed Watcher",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Thousand-Tailed-Watcher",
+    "fullText": "Thousand-Tailed Watcher"
+  },
+  {
+    "key": "Viktor, Innovator-V.1-Rare",
+    "name": "Viktor, Innovator",
+    "version": "V.1",
+    "rarity": "Rare",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Viktor-Innovator-V1-Rare",
+    "fullText": "Viktor, Innovator (V.1 - Rare)"
+  },
+  {
+    "key": "Viktor, Innovator-V.2-Showcase",
+    "name": "Viktor, Innovator",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Viktor-Innovator-V2-Overnumbered",
+    "fullText": "Viktor, Innovator (V.2 - Showcase)"
+  },
+  {
+    "key": "Wraith of Echoes-V.1-Common",
+    "name": "Wraith of Echoes",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Wraith-of-Echoes",
+    "fullText": "Wraith of Echoes"
+  },
+  {
+    "key": "Ahri, Inquisitive-V.1-Epic",
+    "name": "Ahri, Inquisitive",
+    "version": "V.1",
+    "rarity": "Epic",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Ahri-Inquisitive-V1-Epic",
+    "fullText": "Ahri, Inquisitive (V.1 - Epic)"
+  },
+  {
+    "key": "Ahri, Inquisitive-V.2-Showcase",
+    "name": "Ahri, Inquisitive",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Ahri-Inquisitive-V2-Overnumbered",
+    "fullText": "Ahri, Inquisitive (V.2 - Showcase)"
+  },
+  {
+    "key": "Seal of Insight-V.1-Common",
+    "name": "Seal of Insight",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Seal-of-Insight",
+    "fullText": "Seal of Insight"
+  },
+  {
+    "key": "Teemo, Strategist-V.1-Epic",
+    "name": "Teemo, Strategist",
+    "version": "V.1",
+    "rarity": "Epic",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Teemo-Strategist-V1-Epic",
+    "fullText": "Teemo, Strategist (V.1 - Epic)"
+  },
+  {
+    "key": "Teemo, Strategist-V.2-Showcase",
+    "name": "Teemo, Strategist",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Teemo-Strategist-V2-Overnumbered",
+    "fullText": "Teemo, Strategist (V.2 - Showcase)"
+  },
+  {
+    "key": "Time Warp-V.1-Common",
+    "name": "Time Warp",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Time-Warp",
+    "fullText": "Time Warp"
+  },
+  {
+    "key": "Unchecked Power-V.1-Common",
+    "name": "Unchecked Power",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Unchecked-Power",
+    "fullText": "Unchecked Power"
+  },
+  {
+    "key": "Body Rune-V.2-Showcase",
+    "name": "Body Rune",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Rune",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Body-Rune-V2-Overnumbered",
+    "fullText": "Body Rune (V.2 - Showcase)"
+  },
+  {
+    "key": "Anivia, Primal-V.1-Common",
+    "name": "Anivia, Primal",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Anivia-Primal",
+    "fullText": "Anivia, Primal"
+  },
+  {
+    "key": "Carnivorous Snapvine-V.1-Common",
+    "name": "Carnivorous Snapvine",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Carnivorous-Snapvine",
+    "fullText": "Carnivorous Snapvine"
+  },
+  {
+    "key": "Kraken Hunter-V.1-Common",
+    "name": "Kraken Hunter",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Kraken-Hunter",
+    "fullText": "Kraken Hunter"
+  },
+  {
+    "key": "Lee Sin, Centered-V.1-Rare",
+    "name": "Lee Sin, Centered",
+    "version": "V.1",
+    "rarity": "Rare",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Lee-Sin-Centered-V1-Rare",
+    "fullText": "Lee Sin, Centered (V.1 - Rare)"
+  },
+  {
+    "key": "Lee Sin, Centered-V.2-Showcase",
+    "name": "Lee Sin, Centered",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Lee-Sin-Centered-V2-Overnumbered",
+    "fullText": "Lee Sin, Centered (V.2 - Showcase)"
+  },
+  {
+    "key": "Mistfall-V.1-Common",
+    "name": "Mistfall",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Mistfall",
+    "fullText": "Mistfall"
+  },
+  {
+    "key": "Overt Operation-V.1-Common",
+    "name": "Overt Operation",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Overt-Operation",
+    "fullText": "Overt Operation"
+  },
+  {
+    "key": "Primal Strength-V.1-Common",
+    "name": "Primal Strength",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Primal-Strength",
+    "fullText": "Primal Strength"
+  },
+  {
+    "key": "Qiyana, Victorious-V.1-Common",
+    "name": "Qiyana, Victorious",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Qiyana-Victorious",
+    "fullText": "Qiyana, Victorious"
+  },
+  {
+    "key": "Sabotage-V.1-Common",
+    "name": "Sabotage",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Sabotage",
+    "fullText": "Sabotage"
+  },
+  {
+    "key": "Udyr, Wildman-V.1-Common",
+    "name": "Udyr, Wildman",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Udyr-Wildman",
+    "fullText": "Udyr, Wildman"
+  },
+  {
+    "key": "Volibear, Imposing-V.1-Rare",
+    "name": "Volibear, Imposing",
+    "version": "V.1",
+    "rarity": "Rare",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Volibear-Imposing-V1-Rare",
+    "fullText": "Volibear, Imposing (V.1 - Rare)"
+  },
+  {
+    "key": "Volibear, Imposing-V.2-Showcase",
+    "name": "Volibear, Imposing",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Volibear-Imposing-V2-Overnumbered",
+    "fullText": "Volibear, Imposing (V.2 - Showcase)"
+  },
+  {
+    "key": "Warwick, Hunter-V.1-Common",
+    "name": "Warwick, Hunter",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Warwick-Hunter",
+    "fullText": "Warwick, Hunter"
+  },
+  {
+    "key": "Dazzling Aurora-V.1-Common",
+    "name": "Dazzling Aurora",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Dazzling-Aurora",
+    "fullText": "Dazzling Aurora"
+  },
+  {
+    "key": "Deadbloom Predator-V.1-Common",
+    "name": "Deadbloom Predator",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Deadbloom-Predator",
+    "fullText": "Deadbloom Predator"
+  },
+  {
+    "key": "Miss Fortune, Captain-V.1-Epic",
+    "name": "Miss Fortune, Captain",
+    "version": "V.1",
+    "rarity": "Epic",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Miss-Fortune-Captain-V1-Epic",
+    "fullText": "Miss Fortune, Captain (V.1 - Epic)"
+  },
+  {
+    "key": "Miss Fortune, Captain-V.2-Showcase",
+    "name": "Miss Fortune, Captain",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Miss-Fortune-Captain-V2-Overnumbered",
+    "fullText": "Miss Fortune, Captain (V.2 - Showcase)"
+  },
+  {
+    "key": "Seal of Strength-V.1-Common",
+    "name": "Seal of Strength",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Seal-of-Strength",
+    "fullText": "Seal of Strength"
+  },
+  {
+    "key": "Sett, Brawler-V.1-Epic",
+    "name": "Sett, Brawler",
+    "version": "V.1",
+    "rarity": "Epic",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Sett-Brawler-V1-Epic",
+    "fullText": "Sett, Brawler (V.1 - Epic)"
+  },
+  {
+    "key": "Sett, Brawler-V.2-Showcase",
+    "name": "Sett, Brawler",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Sett-Brawler-V2-Overnumbered",
+    "fullText": "Sett, Brawler (V.2 - Showcase)"
+  },
+  {
+    "key": "Chaos Rune-V.2-Showcase",
+    "name": "Chaos Rune",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Rune",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Chaos-Rune-V2-Overnumbered",
+    "fullText": "Chaos Rune (V.2 - Showcase)"
+  },
+  {
+    "key": "Kayn, Unleashed-V.1-Common",
+    "name": "Kayn, Unleashed",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Kayn-Unleashed",
+    "fullText": "Kayn, Unleashed"
+  },
+  {
+    "key": "Kog'Maw, Caustic-V.1-Common",
+    "name": "Kog'Maw, Caustic",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/KogMaw-Caustic",
+    "fullText": "Kog'Maw, Caustic"
+  },
+  {
+    "key": "Maddened Marauder-V.1-Common",
+    "name": "Maddened Marauder",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Maddened-Marauder",
+    "fullText": "Maddened Marauder"
+  },
+  {
+    "key": "Mindsplitter-V.1-Common",
+    "name": "Mindsplitter",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Mindsplitter",
+    "fullText": "Mindsplitter"
+  },
+  {
+    "key": "Miss Fortune, Buccaneer-V.1-Rare",
+    "name": "Miss Fortune, Buccaneer",
+    "version": "V.1",
+    "rarity": "Rare",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Miss-Fortune-Buccaneer-V1-Rare",
+    "fullText": "Miss Fortune, Buccaneer (V.1 - Rare)"
+  },
+  {
+    "key": "Miss Fortune, Buccaneer-V.2-Showcase",
+    "name": "Miss Fortune, Buccaneer",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Miss-Fortune-Buccaneer-V2-Overnumbered",
+    "fullText": "Miss Fortune, Buccaneer (V.2 - Showcase)"
+  },
+  {
+    "key": "Nocturne, Horrifying-V.1-Common",
+    "name": "Nocturne, Horrifying",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Nocturne-Horrifying",
+    "fullText": "Nocturne, Horrifying"
+  },
+  {
+    "key": "Rhasa the Sunderer-V.1-Common",
+    "name": "Rhasa the Sunderer",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Rhasa-the-Sunderer",
+    "fullText": "Rhasa the Sunderer"
+  },
+  {
+    "key": "Soulgorger-V.1-Common",
+    "name": "Soulgorger",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Soulgorger",
+    "fullText": "Soulgorger"
+  },
+  {
+    "key": "Teemo, Scout-V.1-Rare",
+    "name": "Teemo, Scout",
+    "version": "V.1",
+    "rarity": "Rare",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Teemo-Scout-V1-Rare",
+    "fullText": "Teemo, Scout (V.1 - Rare)"
+  },
+  {
+    "key": "Teemo, Scout-V.2-Showcase",
+    "name": "Teemo, Scout",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Teemo-Scout-V2-Overnumbered",
+    "fullText": "Teemo, Scout (V.2 - Showcase)"
+  },
+  {
+    "key": "The Harrowing-V.1-Common",
+    "name": "The Harrowing",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/The-Harrowing",
+    "fullText": "The Harrowing"
+  },
+  {
+    "key": "Tideturner-V.1-Common",
+    "name": "Tideturner",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Tideturner",
+    "fullText": "Tideturner"
+  },
+  {
+    "key": "Twisted Fate, Gambler-V.1-Common",
+    "name": "Twisted Fate, Gambler",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Twisted-Fate-Gambler",
+    "fullText": "Twisted Fate, Gambler"
+  },
+  {
+    "key": "Invert Timelines-V.1-Common",
+    "name": "Invert Timelines",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Invert-Timelines",
+    "fullText": "Invert Timelines"
+  },
+  {
+    "key": "Jinx, Rebel-V.1-Epic",
+    "name": "Jinx, Rebel",
+    "version": "V.1",
+    "rarity": "Epic",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Jinx-Rebel-V1-Epic",
+    "fullText": "Jinx, Rebel (V.1 - Epic)"
+  },
+  {
+    "key": "Jinx, Rebel-V.2-Showcase",
+    "name": "Jinx, Rebel",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Jinx-Rebel-V2-Overnumbered",
+    "fullText": "Jinx, Rebel (V.2 - Showcase)"
+  },
+  {
+    "key": "Possession-V.1-Common",
+    "name": "Possession",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Possession",
+    "fullText": "Possession"
+  },
+  {
+    "key": "Seal of Discord-V.1-Common",
+    "name": "Seal of Discord",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Seal-of-Discord",
+    "fullText": "Seal of Discord"
+  },
+  {
+    "key": "Yasuo, Windrider-V.1-Epic",
+    "name": "Yasuo, Windrider",
+    "version": "V.1",
+    "rarity": "Epic",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Yasuo-Windrider-V1-Epic",
+    "fullText": "Yasuo, Windrider (V.1 - Epic)"
+  },
+  {
+    "key": "Yasuo, Windrider-V.2-Showcase",
+    "name": "Yasuo, Windrider",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Yasuo-Windrider-V2-Overnumbered",
+    "fullText": "Yasuo, Windrider (V.2 - Showcase)"
+  },
+  {
+    "key": "Order Rune-V.2-Showcase",
+    "name": "Order Rune",
+    "version": "V.2",
+    "rarity": "Showcase",
+    "type": "Rune",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Order-Rune-V2-Overnumbered",
+    "fullText": "Order Rune (V.2 - Showcase)"
+  },
+  {
+    "key": "Albus Ferros-V.1-Common",
+    "name": "Albus Ferros",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Albus-Ferros",
+    "fullText": "Albus Ferros"
+  },
+  {
+    "key": "Commander Ledros-V.1-Common",
+    "name": "Commander Ledros",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Commander-Ledros",
+    "fullText": "Commander Ledros"
+  },
+  {
+    "key": "Fiora, Victorious-V.1-Common",
+    "name": "Fiora, Victorious",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Fiora-Victorious",
+    "fullText": "Fiora, Victorious"
+  },
+  {
+    "key": "Grand Strategem-V.1-Common",
+    "name": "Grand Strategem",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Grand-Strategem",
+    "fullText": "Grand Strategem"
+  },
+  {
+    "key": "Harnessed Dragon-V.1-Common",
+    "name": "Harnessed Dragon",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Harnessed-Dragon",
+    "fullText": "Harnessed Dragon"
+  },
+  {
+    "key": "Karma, Channeler-V.1-Common",
+    "name": "Karma, Channeler",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Origins/Karma-Channeler",
+    "fullText": "Karma, Channeler"
+  },
+  {
+    "key": "Flash-V.1-Common",
+    "name": "Flash",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Flash",
+    "fullText": "Flash"
+  },
+  {
+    "key": "Master Yi, Honed-V.1-Common",
+    "name": "Master Yi, Honed",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Master-Yi-Honed",
+    "fullText": "Master Yi, Honed"
+  },
+  {
+    "key": "Annie, Stubborn-V.1-Common",
+    "name": "Annie, Stubborn",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Annie-Stubborn",
+    "fullText": "Annie, Stubborn"
+  },
+  {
+    "key": "Master Yi, Wuju Bladesman-V.1-Common",
+    "name": "Master Yi, Wuju Bladesman",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Master-Yi-Wuju-Bladesman",
+    "fullText": "Master Yi, Wuju Bladesman"
+  },
+  {
+    "key": "Recruit the Vanguard-V.1-Common",
+    "name": "Recruit the Vanguard",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Recruit-the-Vanguard",
+    "fullText": "Recruit the Vanguard"
+  },
+  {
+    "key": "Annie, Dark Child-V.1-Common",
+    "name": "Annie, Dark Child",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Annie-Dark-Child",
+    "fullText": "Annie, Dark Child"
+  },
+  {
+    "key": "Lux, Crownguard-V.1-Common",
+    "name": "Lux, Crownguard",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Lux-Crownguard",
+    "fullText": "Lux, Crownguard"
+  },
+  {
+    "key": "Annie, Fiery-V.1-Common",
+    "name": "Annie, Fiery",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Annie-Fiery",
+    "fullText": "Annie, Fiery"
+  },
+  {
+    "key": "Blast of Power-V.1-Common",
+    "name": "Blast of Power",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Blast-of-Power",
+    "fullText": "Blast of Power"
+  },
+  {
+    "key": "Master Yi, Meditative-V.1-Common",
+    "name": "Master Yi, Meditative",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Master-Yi-Meditative",
+    "fullText": "Master Yi, Meditative"
+  },
+  {
+    "key": "Final Spark-V.1-Common",
+    "name": "Final Spark",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Final-Spark",
+    "fullText": "Final Spark"
+  },
+  {
+    "key": "Incinerate-V.1-Common",
+    "name": "Incinerate",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Incinerate",
+    "fullText": "Incinerate"
+  },
+  {
+    "key": "Highlander-V.1-Common",
+    "name": "Highlander",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Highlander",
+    "fullText": "Highlander"
+  },
+  {
+    "key": "Tibbers-V.1-Common",
+    "name": "Tibbers",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Tibbers",
+    "fullText": "Tibbers"
+  },
+  {
+    "key": "Firestorm-V.1-Common",
+    "name": "Firestorm",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Firestorm",
+    "fullText": "Firestorm"
+  },
+  {
+    "key": "Lux, Illuminated-V.1-Common",
+    "name": "Lux, Illuminated",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Lux-Illuminated",
+    "fullText": "Lux, Illuminated"
+  },
+  {
+    "key": "Lux, Lady of Luminosity-V.1-Common",
+    "name": "Lux, Lady of Luminosity",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Lux-Lady-of-Luminosity",
+    "fullText": "Lux, Lady of Luminosity"
+  },
+  {
+    "key": "Garen, Rugged-V.1-Common",
+    "name": "Garen, Rugged",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Garen-Rugged",
+    "fullText": "Garen, Rugged"
+  },
+  {
+    "key": "Garen, Commander-V.1-Common",
+    "name": "Garen, Commander",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Garen-Commander",
+    "fullText": "Garen, Commander"
+  },
+  {
+    "key": "Decisive Strike-V.1-Common",
+    "name": "Decisive Strike",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Decisive-Strike",
+    "fullText": "Decisive Strike"
+  },
+  {
+    "key": "Vanguard Attendant-V.1-Common",
+    "name": "Vanguard Attendant",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Vanguard-Attendant",
+    "fullText": "Vanguard Attendant"
+  },
+  {
+    "key": "Gentlemen's Duel-V.1-Common",
+    "name": "Gentlemen's Duel",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Gentlemens-Duel",
+    "fullText": "Gentlemen's Duel"
+  },
+  {
+    "key": "Garen, Might of Demacia-V.1-Common",
+    "name": "Garen, Might of Demacia",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Champion",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Garen-Might-of-Demacia",
+    "fullText": "Garen, Might of Demacia"
+  },
+  {
+    "key": "Zephyr Sage-V.1-Common",
+    "name": "Zephyr Sage",
+    "version": "V.1",
+    "rarity": "Common",
+    "type": "Spell",
+    "cardMarketUrl": "https://www.cardmarket.com/en/Riftbound/Products/Singles/Proving-Grounds/Zephyr-Sage",
+    "fullText": "Zephyr Sage"
+  }
+]

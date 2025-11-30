@@ -1,0 +1,38 @@
+{
+  "name": "cardmarket-price-tracker",
+  "version": "1.0.0",
+  "description": "Tool to fetch average card prices from CardMarket, filtering out non-EU sellers",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "dev": "ts-node src/index.ts",
+    "test": "ts-node src/index.ts",
+    "generate-mapping": "ts-node src/generate-mapping.ts",
+    "server": "ts-node src/server.ts",
+    "fetch-images": "ts-node src/fetch-images.ts",
+    "scrape-all-cards": "ts-node src/scrape-all-cards.ts"
+  },
+  "keywords": [
+    "cardmarket",
+    "price",
+    "tracker",
+    "trading-cards"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.5",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "puppeteer": "^21.6.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

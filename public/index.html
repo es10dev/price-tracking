@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riftbound Visual Deck Builder</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: #1a1a2e;
+            color: #eee;
+            min-height: 100vh;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        h1 {
+            color: white;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            color: rgba(255, 255, 255, 0.9);
+            font-size: 14px;
+        }
+
+        .main-container {
+            display: grid;
+            grid-template-columns: 1fr 350px;
+            gap: 20px;
+            padding: 20px;
+            max-width: 1800px;
+            margin: 0 auto;
+        }
+
+        .cards-section {
+            background: #16213e;
+            border-radius: 10px;
+            padding: 20px;
+            overflow-y: auto;
+            max-height: calc(100vh - 200px);
+        }
+
+        .search-container {
+            margin-bottom: 15px;
+        }
+
+        .search-bar {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #667eea;
+            background: #0f3460;
+            color: #eee;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+
+        .search-bar:focus {
+            outline: none;
+            background: #1a2a4e;
+            box-shadow: 0 0 10px rgba(102, 126, 234, 0.3);
+        }
+
+        .search-bar::placeholder {
+            color: #aaa;
+        }
+
+        .filters {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 8px 16px;
+            border: 2px solid #667eea;
+            background: transparent;
+            color: #667eea;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .filter-btn:hover,
+        .filter-btn.active {
+            background: #667eea;
+            color: white;
+        }
+
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 15px;
+        }
+
+        .card-item {
+            background: #0f3460;
+            border-radius: 8px;
+            overflow: hidden;
+            cursor: pointer;
+            transition: all 0.3s;
+            border: 3px solid transparent;
+            position: relative;
+        }
+
+        .card-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
+            border-color: #667eea;
+        }
+
+        .card-image {
+            aspect-ratio: 2.5 / 3.5;
+            width: 100%;
+            object-fit: cover;
+            display: block;
+        }
+
+        .card-placeholder {
+            aspect-ratio: 2.5 / 3.5;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            text-align: center;
+            padding: 10px;
+            font-size: 12px;
+        }
+
+        .card-info {
+            padding: 10px;
+        }
+
+        .card-name {
+            font-weight: 600;
+            margin-bottom: 5px;
+            font-size: 14px;
+        }
+
+        .card-details {
+            font-size: 12px;
+            color: #aaa;
+        }
+
+        .rarity-common { border-left: 4px solid #9e9e9e; }
+        .rarity-rare { border-left: 4px solid #2196F3; }
+        .rarity-epic { border-left: 4px solid #9C27B0; }
+        .rarity-legendary { border-left: 4px solid #FF9800; }
+        .rarity-showcase { border-left: 4px solid #FFD700; }
+
+        .decklist-section {
+            background: #16213e;
+            border-radius: 10px;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            max-height: calc(100vh - 200px);
+        }
+
+        .decklist-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #667eea;
+        }
+
+        .decklist-header h2 {
+            color: #667eea;
+            font-size: 20px;
+        }
+
+        .card-count {
+            background: #667eea;
+            color: white;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        .decklist-cards {
+            flex: 1;
+            overflow-y: auto;
+            margin-bottom: 15px;
+        }
+
+        .decklist-item {
+            background: #0f3460;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .decklist-item-name {
+            font-size: 13px;
+            flex: 1;
+        }
+
+        .decklist-item-controls {
+            display: flex;
+            gap: 5px;
+            align-items: center;
+        }
+
+        .decklist-item-quantity {
+            background: #667eea;
+            color: white;
+            padding: 2px 8px;
+            border-radius: 3px;
+            min-width: 25px;
+            text-align: center;
+            font-size: 12px;
+        }
+
+        .decklist-item-btn {
+            background: #667eea;
+            border: none;
+            color: white;
+            width: 25px;
+            height: 25px;
+            border-radius: 3px;
+            cursor: pointer;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .decklist-item-btn:hover {
+            background: #764ba2;
+        }
+
+        .decklist-item-btn.remove {
+            background: #e53935;
+        }
+
+        .decklist-item-btn.remove:hover {
+            background: #c62828;
+        }
+
+        .calculate-btn {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .calculate-btn:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .calculate-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        .clear-btn {
+            width: 100%;
+            padding: 10px;
+            background: transparent;
+            color: #e53935;
+            border: 2px solid #e53935;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            margin-bottom: 10px;
+            transition: all 0.3s;
+        }
+
+        .clear-btn:hover {
+            background: #e53935;
+            color: white;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 20px;
+            background: #0f3460;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+
+        .loading.active {
+            display: block;
+        }
+
+        .spinner {
+            border: 3px solid rgba(102, 126, 234, 0.3);
+            border-top: 3px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 10px auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .results {
+            display: none;
+            background: #0f3460;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+
+        .results.active {
+            display: block;
+        }
+
+        .total-price {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        .total-price h3 {
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+
+        .total-price .amount {
+            font-size: 32px;
+            font-weight: bold;
+        }
+
+        .price-breakdown {
+            margin-top: 15px;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+
+        .price-breakdown h4 {
+            font-size: 14px;
+            margin-bottom: 10px;
+            color: #667eea;
+        }
+
+        .breakdown-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 10px;
+            background: #16213e;
+            border-radius: 5px;
+            margin-bottom: 5px;
+            font-size: 13px;
+        }
+
+        .breakdown-item.error {
+            background: rgba(229, 57, 53, 0.1);
+            border-left: 3px solid #e53935;
+        }
+
+        .breakdown-item .card-name-qty {
+            color: #eee;
+        }
+
+        .breakdown-item .card-price {
+            color: #667eea;
+            font-weight: bold;
+        }
+
+        .breakdown-item.error .card-price {
+            color: #e53935;
+        }
+
+        .empty-message {
+            text-align: center;
+            color: #aaa;
+            padding: 40px 20px;
+            font-size: 14px;
+        }
+
+        /* Scrollbar styling */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #0f3460;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #667eea;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #764ba2;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Riftbound Visual Deck Builder</h1>
+        <p class="subtitle">Click cards to add them to your decklist, then calculate prices from CardMarket</p>
+    </div>
+
+    <div class="main-container">
+        <div class="cards-section">
+            <div class="search-container">
+                <input type="text" class="search-bar" id="searchBar" placeholder="Search cards by name...">
+            </div>
+            <div class="filters" id="filters">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="Champion">Champions</button>
+                <button class="filter-btn" data-filter="Spell">Spells</button>
+                <button class="filter-btn" data-filter="Rune">Runes</button>
+                <button class="filter-btn" data-filter="Landmark">Landmarks</button>
+            </div>
+            <div class="cards-grid" id="cardsGrid">
+                <!-- Cards will be loaded here -->
+            </div>
+        </div>
+
+        <div class="decklist-section">
+            <div class="decklist-header">
+                <h2>Your Decklist</h2>
+                <span class="card-count" id="cardCount">0 cards</span>
+            </div>
+
+            <div class="decklist-cards" id="decklistCards">
+                <div class="empty-message">
+                    Click on cards to add them to your decklist
+                </div>
+            </div>
+
+            <button class="clear-btn" onclick="clearDecklist()">Clear All</button>
+            <button class="calculate-btn" id="calculateBtn" onclick="calculatePrice()">Calculate Total Price</button>
+
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Calculating prices...</p>
+            </div>
+
+            <div class="results" id="results">
+                <div class="total-price">
+                    <h3>Total Deck Price</h3>
+                    <div class="amount" id="totalAmount">€0.00</div>
+                </div>
+                <div style="font-size: 12px; color: #aaa;" id="summary"></div>
+
+                <div class="price-breakdown" id="priceBreakdown">
+                    <!-- Individual card prices will be shown here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let allCards = [];
+        let decklist = {}; // Card ID -> quantity
+        let currentFilter = 'all';
+        let searchQuery = '';
+
+        // Load cards on page load
+        async function loadCards() {
+            try {
+                const response = await fetch('/api/cards');
+                allCards = await response.json();
+                renderCards();
+            } catch (error) {
+                console.error('Error loading cards:', error);
+                document.getElementById('cardsGrid').innerHTML = '<p style="color: #e53935; text-align: center;">Failed to load cards. Make sure the server is running on port 3001.</p>';
+            }
+        }
+
+        // Render cards based on current filter and search
+        function renderCards() {
+            const grid = document.getElementById('cardsGrid');
+
+            // Apply filters
+            let filtered = currentFilter === 'all'
+                ? allCards
+                : allCards.filter(card => card.type === currentFilter);
+
+            // Apply search
+            if (searchQuery) {
+                filtered = filtered.filter(card =>
+                    card.name.toLowerCase().includes(searchQuery.toLowerCase())
+                );
+            }
+
+            grid.innerHTML = '';
+
+            if (filtered.length === 0) {
+                grid.innerHTML = '<p style="color: #aaa; text-align: center; grid-column: 1/-1;">No cards found</p>';
+                return;
+            }
+
+            filtered.forEach(card => {
+                const cardId = `${card.name}-${card.version}-${card.rarity}`;
+                const cardEl = document.createElement('div');
+                cardEl.className = `card-item rarity-${card.rarity.toLowerCase()}`;
+                cardEl.onclick = () => addToDecklist(card);
+
+                // Use image if available, otherwise use placeholder
+                const imageHtml = card.imageUrl
+                    ? `<img src="${card.imageUrl}" alt="${card.name}" class="card-image" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                       <div class="card-placeholder" style="display: none;">${card.name}</div>`
+                    : `<div class="card-placeholder">${card.name}</div>`;
+
+                cardEl.innerHTML = `
+                    ${imageHtml}
+                    <div class="card-info">
+                        <div class="card-name">${card.name}</div>
+                        <div class="card-details">
+                            ${card.version} - ${card.rarity}<br>
+                            ${card.type}
+                        </div>
+                    </div>
+                `;
+
+                grid.appendChild(cardEl);
+            });
+        }
+
+        // Add card to decklist
+        function addToDecklist(card) {
+            const cardId = `${card.name}-${card.version}-${card.rarity}`;
+            if (!decklist[cardId]) {
+                decklist[cardId] = {
+                    card: card,
+                    quantity: 0
+                };
+            }
+            decklist[cardId].quantity++;
+            updateDecklistDisplay();
+        }
+
+        // Update decklist display
+        function updateDecklistDisplay() {
+            const container = document.getElementById('decklistCards');
+            const entries = Object.entries(decklist).filter(([_, data]) => data.quantity > 0);
+
+            if (entries.length === 0) {
+                container.innerHTML = '<div class="empty-message">Click on cards to add them to your decklist</div>';
+                document.getElementById('cardCount').textContent = '0 cards';
+                return;
+            }
+
+            const totalCards = entries.reduce((sum, [_, data]) => sum + data.quantity, 0);
+            document.getElementById('cardCount').textContent = `${totalCards} cards`;
+
+            container.innerHTML = '';
+            entries.forEach(([cardId, data]) => {
+                const item = document.createElement('div');
+                item.className = 'decklist-item';
+                item.innerHTML = `
+                    <div class="decklist-item-name">
+                        ${data.card.name} (${data.card.version} - ${data.card.rarity})
+                    </div>
+                    <div class="decklist-item-controls">
+                        <button class="decklist-item-btn" onclick="decrementCard('${cardId}')">-</button>
+                        <span class="decklist-item-quantity">${data.quantity}</span>
+                        <button class="decklist-item-btn" onclick="incrementCard('${cardId}')">+</button>
+                        <button class="decklist-item-btn remove" onclick="removeCard('${cardId}')">×</button>
+                    </div>
+                `;
+                container.appendChild(item);
+            });
+        }
+
+        // Increment card quantity
+        function incrementCard(cardId) {
+            decklist[cardId].quantity++;
+            updateDecklistDisplay();
+        }
+
+        // Decrement card quantity
+        function decrementCard(cardId) {
+            if (decklist[cardId].quantity > 1) {
+                decklist[cardId].quantity--;
+            } else {
+                delete decklist[cardId];
+            }
+            updateDecklistDisplay();
+        }
+
+        // Remove card entirely
+        function removeCard(cardId) {
+            delete decklist[cardId];
+            updateDecklistDisplay();
+        }
+
+        // Clear entire decklist
+        function clearDecklist() {
+            if (Object.keys(decklist).length === 0) return;
+            if (confirm('Clear all cards from your decklist?')) {
+                decklist = {};
+                updateDecklistDisplay();
+                document.getElementById('results').classList.remove('active');
+            }
+        }
+
+        // Calculate total price
+        async function calculatePrice() {
+            const entries = Object.entries(decklist).filter(([_, data]) => data.quantity > 0);
+
+            if (entries.length === 0) {
+                alert('Please add cards to your decklist first');
+                return;
+            }
+
+            // Build decklist string
+            const decklistText = entries.map(([_, data]) => {
+                return `${data.quantity} ${data.card.name} (${data.card.version} - ${data.card.rarity})`;
+            }).join('\n');
+
+            // Show loading
+            document.getElementById('loading').classList.add('active');
+            document.getElementById('results').classList.remove('active');
+            document.getElementById('calculateBtn').disabled = true;
+
+            try {
+                const response = await fetch('/api/decklist', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ decklist: decklistText })
+                });
+
+                if (!response.ok) {
+                    throw new Error('Failed to calculate prices');
+                }
+
+                const data = await response.json();
+                displayResults(data);
+
+            } catch (error) {
+                alert('Error: ' + error.message);
+            } finally {
+                document.getElementById('loading').classList.remove('active');
+                document.getElementById('calculateBtn').disabled = false;
+            }
+        }
+
+        // Display results
+        function displayResults(data) {
+            document.getElementById('totalAmount').textContent = `€${data.totalPrice.toFixed(2)}`;
+
+            const totalCards = data.cards.reduce((sum, c) => sum + c.quantity, 0);
+            document.getElementById('summary').innerHTML = `
+                ✓ Successfully priced: ${data.successCount} unique cards<br>
+                ${data.failureCount > 0 ? `❌ Failed: ${data.failureCount} cards<br>` : ''}
+                Total cards in deck: ${totalCards}<br>
+                <small>Prices based on average of 5 cheapest EU sellers</small>
+            `;
+
+            // Build price breakdown
+            const breakdownHtml = data.cards.map(card => {
+                const hasError = card.error;
+                const priceText = hasError
+                    ? card.error
+                    : `€${card.avgPrice.toFixed(2)} × ${card.quantity} = €${card.totalPrice.toFixed(2)}`;
+
+                return `
+                    <div class="breakdown-item ${hasError ? 'error' : ''}">
+                        <span class="card-name-qty">${card.quantity}x ${card.cardName}</span>
+                        <span class="card-price">${priceText}</span>
+                    </div>
+                `;
+            }).join('');
+
+            document.getElementById('priceBreakdown').innerHTML = `
+                <h4>Price Breakdown</h4>
+                ${breakdownHtml}
+            `;
+
+            document.getElementById('results').classList.add('active');
+        }
+
+        // Search bar
+        document.getElementById('searchBar').addEventListener('input', (e) => {
+            searchQuery = e.target.value;
+            renderCards();
+        });
+
+        // Filter buttons
+        document.getElementById('filters').addEventListener('click', (e) => {
+            if (e.target.classList.contains('filter-btn')) {
+                document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+                e.target.classList.add('active');
+                currentFilter = e.target.dataset.filter;
+                renderCards();
+            }
+        });
+
+        // Load cards on page load
+        loadCards();
+    </script>
+</body>
+</html>
